@@ -1,0 +1,17 @@
+@import '@/styles/main.scss';
+
+.layout {
+    min-height: 100vh;
+    background: linear-gradient(101.56deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
+    display: flex;
+    flex-direction: column;  
+    overflow: hidden;
+}
+
+.header {}
+
+.main {
+    flex-grow: 1;
+}
+
+.footer {}
